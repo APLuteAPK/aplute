@@ -1,4 +1,6 @@
-   Update : Tea Testne 
+   Update : Tea Testnet 
+```
+```
 🏷 Reward : 1k Point
 🪂 Go to https://app.tea.xyz/my-projects
 ➖️ Click "Register a New OSS Project"
@@ -19,3 +21,5 @@
 ➖️ Enter name your file
 ➖️ Click "Commit Change"
 ➖️ Done, wait for approval
+```
+```
