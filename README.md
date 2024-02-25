@@ -1,3 +1,4 @@
+'''
 Update : Tea Testne
 🏷 Reward : 1k Point
 🪂 Go to https://app.tea.xyz/my-projects
@@ -19,3 +20,4 @@ Update : Tea Testne
 ➖️ Enter name your file
 ➖️ Click "Commit Change"
 ➖️ Done, wait for approval
+''’
