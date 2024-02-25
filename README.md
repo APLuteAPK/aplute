@@ -19,4 +19,3 @@
 ➖️ Enter name your file
 ➖️ Click "Commit Change"
 ➖️ Done, wait for approval
-''’
