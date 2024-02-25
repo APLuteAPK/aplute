@@ -1,5 +1,4 @@
-'''
-Update : Tea Testne
+   Update : Tea Testne 
 🏷 Reward : 1k Point
 🪂 Go to https://app.tea.xyz/my-projects
 ➖️ Click "Register a New OSS Project"
