@@ -1,7 +1,5 @@
 Update : Tea Testnet 
-```
 Reward : 1k Point
-```
 ```
 Go to https://app.tea.xyz/my-projects
 ```
